@@ -16,7 +16,6 @@
 
   *Participantes:*  
   <a href="https://github.com/gfinamore">[![GitHub Badge](https://img.shields.io/badge/gfinamore-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gfinamore)</a> 
-  <a href="https://github.com/amandaey">[![GitHub Badge](https://img.shields.io/badge/amandaey-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/amandaey)</a>
   <a href="https://github.com/viniciuspereira369">[![GitHub Badge](https://img.shields.io/badge/viniciuspereira369-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/viniciuspereira369)</a>
   <a href="https://github.com/ygorronnan)">[![GitHub Badge](https://img.shields.io/badge/ygorronnan-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ygorronnan)</a>
   <a href="https://github.com/juliababam">[![GitHub Badge](https://img.shields.io/badge/juliababam-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/juliababam)</a>
@@ -32,7 +31,7 @@ A Amazônia, além de abrigar uma biodiversidade incomparável, é um dos princi
 
 ## Overview 🌳🧐
 
-Com o objetivo de compreender melhor o impacto ambiental e explorar as dinâmicas da floresta, o FEA.dev — cujo propósito é aliar dados ao desenvolvimento sustentável — realizou uma série de análises que envolvem os seguintes temas:
+Com o objetivo de compreender melhor o impacto ambiental e explorar as dinâmicas da floresta, o FEA.dev realizou uma série de análises que envolvem os seguintes temas:
 
 1. **Análise da cobertura florestal** da Amazônia nos últimos 30 anos;
 2. **Investigação das queimadas e desmatamentos** ao longo do tempo;
@@ -68,7 +67,6 @@ Confira os resultados das análises nos arquivos Jupyter Notebook (.ipynb) dispo
 ## Créditos
 
 * [Gabriel Finamore](https://github.com/gfinamore)
-* [Amanda Yamasaki](https://github.com/amandaey)
 * [Vinicius Pereira](https://github.com/viniciuspereira369)
 * [Ygor Ronnan](https://github.com/ygorronnan)
 * [Julia Babam](https://github.com/juliababam)
