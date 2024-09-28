@@ -33,9 +33,9 @@ A Amazônia, além de abrigar uma biodiversidade incomparável, é um dos princi
 
 Com o objetivo de compreender melhor o impacto ambiental e explorar as dinâmicas da floresta, o FEA.dev realizou uma série de análises que envolvem os seguintes temas:
 
-1. **Análise da cobertura florestal** da Amazônia nos últimos 30 anos;
-2. **Investigação das queimadas e desmatamentos** ao longo do tempo;
-3. **Avaliação dos impactos climáticos** e sua relação com a degradação da floresta;
+1. **Análise do desmatamento da Amazônia Legal** de 2000 a 2024;
+2. **Investigação das queimadas** entre 2000 e 2024;
+3. **Avaliação dos impactos do avanço da fronteira agrícola, da mineração e da urbanização**;
 4. **Estudo da biodiversidade** e como ela tem sido afetada por diferentes fatores ambientais.
 
 Os dados utilizados para essas análises foram retirados do [INPE (Instituto Nacional de Pesquisas Espaciais)](https://www.inpe.br/queimadas/) e do [Projeto PRODES](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes), além de bases do [World Wildlife Fund (WWF)](https://www.worldwildlife.org/places/amazon).
