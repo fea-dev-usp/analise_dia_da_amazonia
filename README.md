@@ -1,3 +1,5 @@
+![Imagem de capa do readme: Dia da Amazônia.](readme.amazonia.png)
+
 # Análise de Setembro: Dia da Amazônia 
 <div align="center">
  
